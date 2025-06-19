@@ -1,0 +1,5 @@
+PlanID,PlanName,PricePerMonth,CostPerMonth
+P001,Basic,14.99,5.0
+P002,Pro,29.99,10.0
+P003,Business,49.99,18.0
+P004,Enterprise,99.99,35.0

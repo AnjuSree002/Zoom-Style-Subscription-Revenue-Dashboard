@@ -19,7 +19,7 @@ This Power Bi Project simulates subscription revenue analysis for SAAS business 
    - Location    : './DATA/Customers_Finance.csv'
    - Description : Contains Customer master data.
    - Key Columns :
-        - 'CustomerID'
+        - 'CustomerID' (primary Key)
         - 'JoinDate'
         - 'Region'
         - 'Gender'
@@ -53,5 +53,4 @@ This Power Bi Project simulates subscription revenue analysis for SAAS business 
          - 'InvoiceAmount'
     
      
-         - 
 
